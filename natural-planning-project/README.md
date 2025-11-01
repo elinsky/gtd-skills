@@ -1,6 +1,6 @@
 # Natural Planning Project Creation Skill
 
-A conversational AI skill that guides users through David Allen's Natural Planning Model when creating GTD projects.
+A conversational AI skill that guides users through the Natural Planning Model when creating GTD projects.
 
 ## What It Does
 

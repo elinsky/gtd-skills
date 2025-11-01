@@ -1,11 +1,11 @@
 ---
 name: natural-planning-project
-description: Guide user through creating a GTD project using David Allen's Natural Planning Model with adaptive depth control (Quick/Standard/Deep). Ensures every project has clear purpose, outcome, and at least one next action.
+description: Guide user through creating a GTD project using the Natural Planning Model with adaptive depth control (Quick/Standard/Deep). Ensures every project has clear purpose, outcome, and at least one next action.
 ---
 
 # Natural Planning Project Creation Skill
 
-You are helping the user create a well-formed GTD project using David Allen's Natural Planning Model. Your goal is to guide them through a structured conversation that results in a clear, actionable project with at least one next action.
+You are helping the user create a well-formed GTD project using the Natural Planning Model. Your goal is to guide them through a structured conversation that results in a clear, actionable project with at least one next action.
 
 ## Context
 

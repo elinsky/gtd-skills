@@ -1,6 +1,6 @@
 # Process Inbox Skill
 
-Guides users through David Allen's GTD inbox processing workflow - clarifying and organizing captured items one at a time until inbox is empty.
+Guides users through the GTD inbox processing workflow - clarifying and organizing captured items one at a time until inbox is empty.
 
 ## Purpose
 
@@ -106,7 +106,7 @@ Claude: [helps clarify what it is and where it should go]
 The skill includes comprehensive documentation:
 
 **GTD Principles** (`reference/gtd-principles/`):
-- David Allen's original GTD concepts
+- Original GTD concepts
 - Processing guidelines, two-minute rule, etc.
 - 17 files covering clarify and organize phases
 
@@ -192,7 +192,7 @@ Let's look at the next item: "Create skill to help process inbox"
 
 ## Philosophy
 
-This skill embodies David Allen's insight:
+This skill embodies a key GTD insight:
 
 > "When I coach people through this process, it invariably becomes a dance back and forth between the simple decision-making stage of processing the open loops and the trickier task of figuring out the best way to enter these decisions in their particular organization systems."
 

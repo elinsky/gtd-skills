@@ -23,7 +23,7 @@ Skills are conversational prompts that instruct AI assistants on how to guide us
 ### Natural Planning Project Creation
 **Location:** `skills/natural-planning-project/`
 
-Guides users through David Allen's Natural Planning Model when creating new GTD projects. Ensures projects are well-formed with clear purpose, vision, and next actions.
+Guides users through the Natural Planning Model when creating new GTD projects. Ensures projects are well-formed with clear purpose, vision, and next actions.
 
 **Key Features:**
 
