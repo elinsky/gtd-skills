@@ -1,20 +1,18 @@
 # GTD Skills
 
-Reusable AI agent skills for Getting Things Done (GTD) workflows. These skills guide Claude Code and AI agents through GTD best practices, particularly the Natural Planning Model.
+Reusable AI agent skills for Getting Things Done (GTD) workflows. These skills guide Claude Code and AI agents through GTD best practices.
 
 ## Why This Exists
 
-Traditional project planning tools present you with empty form fields: "Project Name", "Description", "Due Date". But effective planning requires thinking through *why* you're doing something before deciding *what* to do. This backwards approach leads to shallow projects that lack clarity.
+Getting Things Done works, but it's hard to implement consistently. You know you should process your inbox regularly, create well-formed projects, and maintain your system - but actually doing it requires discipline and expertise.
 
-David Allen's Natural Planning Model solves this - it's how your brain naturally plans when it works well. You think through purpose first, then envision success, then brainstorm, then organize, then identify next actions. In that order.
+These skills embed GTD coaching expertise into Claude Code, so you get guided through best practices as a natural conversation:
 
-These skills embed that expertise into Claude Code, so you get guided through high-quality planning as a conversation:
-
+- **Processing inbox?** Claude coaches you through clarify and organize for each item
 - **Creating a project?** Claude asks about purpose and vision before letting you add tasks
-- **Stuck on a project?** Claude helps you reconnect with why it matters
-- **Moving too fast?** Claude ensures you've thought it through
+- **Stuck on something?** Claude helps you apply GTD principles to get unstuck
 
-No more blank forms. No more shallow projects. Just natural planning with an AI partner who knows GTD.
+No more decision paralysis. No more shallow projects. No more items sitting in inbox for weeks. Just effective GTD execution with an AI partner who knows the methodology.
 
 ## Overview
 
@@ -35,6 +33,21 @@ Guides users through David Allen's Natural Planning Model when creating new GTD 
 - Follows GTD best practices from "Getting Things Done"
 
 See [skills/natural-planning-project/README.md](skills/natural-planning-project/README.md) for details.
+
+### Process Inbox
+**Location:** `skills/process-inbox/`
+
+Guides users through GTD inbox processing - clarifying and organizing captured items one at a time until inbox is empty. Acts as your GTD coach, helping you route items across all horizons of focus (00k actions through 50k purpose).
+
+**Key Features:**
+
+- Enforces GTD processing rules (top first, one at a time, never back to inbox)
+- Multi-horizon routing (00k-50k)
+- Adaptive questioning based on item complexity
+- Integrates with gtd-mcp tools for organizing
+- Comprehensive GTD reference materials included
+
+See [skills/process-inbox/README.md](skills/process-inbox/README.md) for details.
 
 ## Usage
 

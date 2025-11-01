@@ -1,0 +1,49 @@
+# Project Support Materials
+
+Project support materials are not project actions, and they're not project reminders. They're resources to support your actions and thinking about your projects.
+
+## Don't Use Support Material for Reminding
+
+**What continues to talk to you psychologically in your environment, demanding that you do something about it?**
+
+Typically, people use stacks of paper, stuffed file folders, and/or a plethora of e-mails and digital documents as reminders that (1) they've got a project, and (2) they've got to do something about it. They're essentially making support materials serve as action reminders. The problem is that next actions and Waiting For items on these projects have usually not been determined and are psychologically still embedded in the stacks and the files and e-mails—giving them the aura of just more stuff that repels its (un)organizer instead of attracting him or her to action. It delivers an incessant subliminal chant: "Do something about me! Decide something about me! Follow up with something about me!" When you're on the run, in the heat of the activities of the day, files like that are the last things you'll want to pick up and peruse for actions. You'll actually go numb to the files and the piles because they don't prompt you to do anything and they simply create more mental noise and emotional anxiety.
+
+If you're in this kind of situation you must first add the project itself to your Projects list, as a reminder that there's an outcome to be achieved. Then the action steps and Waiting For items must be put onto their appropriate action reminder lists. Finally, when it's time to actually do an action, like making a call to someone about the project, you can pull out all the materials you think you might need to have as support during the conversation.
+
+To reiterate, you don't want to use support materials as your primary reminders of what to do—that should be relegated to your action lists. If, however, the materials contain project plans and overviews in addition to ad hoc archival and reference information, you may want to keep them a little more visibly accessible than you do the pure reference materials in your filing cabinet or on your computer. These are fine to store support stuff, too, as long as you have the discipline to pull out the file drawer or open the computer to the proper directory and files and take a look at the plans every time you do your Weekly Review. If not, you're better off storing those kinds of project support files (perhaps with printouts from computer files) in a standing file holder or a separate Pending stack tray on your desk or other visually available surface.
+
+To return to the previous example of moving into a new residence, you could have a folder labeled "Upgrades—37 Pinkerton Place" containing all the plans and details and notes about the patio and kitchen and office area. In your Weekly Review, when you came to "Upgrade new residence" on your Projects list, you'd pull out the file for that project and thumb through all your notes to ensure that you weren't missing any possible next actions. Those actions would then get done, delegated, or deferred to your action lists, and the folder would be refiled until you needed it again for doing the actions or for your next Weekly Review.
+
+Many people who interact with current and prospective clients have attempted to use client folders and/or client-relationship-management (CRM) software to "manage the account." The problem here is that some material is just facts or historical data that needs to be stored as background for when you might be able to use it, and some of what must be tracked are the actions required to move the relationships forward. The latter can be more effectively organized within your action-lists system. Client information is just that, and it can be folded into a general-reference file on the client or stored within a clients-focused library. But if I need to call a client, I don't want that reminder embedded anywhere but on a Calls list.
+
+## Organizing Ad Hoc Project Thinking
+
+In chapter 3, I suggested that you will often have ideas that you'll want to keep about projects but that are not necessarily next actions. Those ideas fall into the broad category of "project support materials," and may be anything from a notion about something you might want to do on your next vacation to a clarification of some major components in a project plan. These thoughts could come as you're driving down the freeway listening to a news story on the radio, or reading a relevant article. What do you do with that kind of material?
+
+**There is no need ever to lose an idea about a project, theme, or topic.**
+
+My recommendation here is that you consider where you're keeping tabs on the project or topic itself, how you might add information to it in that format, and where you might store any more extensive data associated with it. Most professionals will have several options for how to handle support materials, including attaching notes to a list item, organizing digital information in e-mail and/or databases, and maintaining paper-based files and notes in notebooks.
+
+### Attached Notes
+
+Most organizing software allows you to attach a digital note to a list or calendar entry. If you're keeping a Projects list within the software, you can go to the project you had a thought about, open or attach a note to it, and type in your idea. This is an excellent way to capture "back of the envelope" project thinking. If your Projects list is paper based, you can attach a Post-it note next to the item on your master list or, if you're a low-tech type, on the item's separate sheet. In any case, you'll need to remember to look at the attachment when you review your project to make use of the data.
+
+### E-mail and Software Applications
+
+The digital world offers an infinite variety of ways to deal with project thoughts. E-mails that might contain good information related to your projects can be held in a dedicated e-mail reference folder, labeled accordingly. If you have a large volume of e-mails related to one project, consider creating two folders: "Johnson Partnership—Active" and "Johnson Partnership—Archive," or some such. You may also find it worthwhile, if you don't have one already, to set up a more rigorous kind of digital database for organizing your thinking on a project or topic. An enormous flowering of such tools has happened in this century—from simple and elegant cloud-based note-taking and notebook-organizing software that permits infinite customization for how it's used, to group-sharing file and project management systems, to personal project-organizing applications for everything from free-form mind mapping to organizing large writing and research endeavors.
+
+**The inherent danger in the digital world is how much data can be spread into how many different places so easily, without coordinating links.**
+
+The bad news about the good news of the huge assortment of options for digital project support is the ease with which we are seduced into spreading potentially meaningful information into such a multiplicity of locations and mechanisms that it can take us almost back to square one: we don't know where it all is, can't see it all integrated for appropriate overviewing from the right perspective at the right time, aren't sure exactly how to put what data where . . . so we wind up trying to keep it all coordinated back in our heads! I continually find interesting new ways to track relevant information for various things I'm doing, but I retain sanity only when I keep a clearly delineated and accessible Projects list and ensure that I'm scanning across any related parts of my system regularly for pertinent details.
+
+### Paper-Based Files
+
+Having a separate file folder devoted to each project makes a lot of sense when you're accumulating paper-based materials; it may be low-tech, but it's an elegant solution nonetheless. Simplicity and ease of handling make for a good general-reference filing system—one that lets you feel comfortable about creating a folder for scraps of paper from a meeting. At times it's easier to overview and access project-related information for planning sessions and conversations using a physical folder than trying to use the digital pieces themselves in the moment. I will often print all potentially useful items pertaining to the project—spreadsheets, schedules, e-mails, Web pages, etc.—to have in hand as reference for those kinds of interactions.
+
+### Pages in Notebooks
+
+A great advantage of paper-based loose-leaf notebooks is that you can dedicate a whole page or group of pages to an individual project. For years I maintained a midsize notebook with a Projects list in front and a Project Support section toward the back, where I always had some blank pages to capture any random thinking or plans and details about projects on my list. Though paper-based personal system components are increasingly giving way to their digital counterparts, the notebook model is a valuable one, supporting a more integrated and multilevel platform for well-oriented thinking.
+
+Each of the methods previously described can be effective in organizing project thoughts. The key is that you must consistently look for any action steps inherent in your project notes, and review the notes themselves as often as you think it is necessary, given the nature of the project.
+
+You'll also want to clear out many of your notes once they become inactive, unreal, or redundant, to keep the whole system from catching the "stale" virus. I've found a lot of value in capturing these types of thoughts, more for the way it consistently helps my thinking process than because I end up using every idea (most I don't!). But I try to make sure not to let my old thoughts stay around too long, pretending they're useful when they're not.

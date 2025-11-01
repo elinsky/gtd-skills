@@ -1,0 +1,25 @@
+# Organizing Action Reminders
+
+If you've emptied your in-tray, you'll undoubtedly have created a stack of Pending reminders for yourself, representing longer-than-two-minute actions that cannot be delegated to someone else. You'll probably have anywhere from twenty to sixty or seventy or more such items. You'll also have accumulated reminders of things that you've handed off to other people, and perhaps some things that need to be placed on your calendar or in a Someday/Maybe holder.
+
+You'll want to sort all of this into groupings that make sense to you so you can review them as options for work to do when you have time. You'll also want to divide them in the most appropriate way physically to organize those groups, whether as items in folders or on lists, either paper based or digital.
+
+## The Actions That Go on Your Calendar
+
+For the purposes of organization, as I've said, there are two basic kinds of actions: those that must be done on a certain day and/or at a particular time, and those that just need to be done as soon as you can get to them, around your other calendar items (some perhaps with a final due date). Calendared action items can be either time specific (e.g., "10:00–11:00 meet with Jim") or day specific ("Call Rachel Tuesday to see if she got the proposal").
+
+**The calendar should show only the "hard landscape" around which you do the rest of your actions.**
+
+As you were processing your in-tray, you probably came across things that you put right into your calendar as they showed up. You may have realized that the next action on getting a medical checkup, for example, was to call and make the appointment, and so (since the action required two minutes or less) you actually did it when it occurred to you. Writing the appointment on your calendar as you made it would then have been common sense.
+
+What many want to do, however, based on perhaps old habits of writing daily to-do lists, is put actions on the calendar that they think they'd really like to get done next Monday, say, but that actually might not, and that might then have to be moved to following days. Resist this impulse. You need to trust your calendar as sacred territory, reflecting the exact hard edges of your day's commitments, which should be noticeable at a glance while you're on the run. That'll be much easier if the only things in there are those that you absolutely have to get done, or know about, on that day. When the calendar is relegated to its proper role in organizing, the majority of the actions that you need to do are left in the category of "as soon as possible, against all the other things I have to do."
+
+## Organizing As-Soon-As-Possible Actions by Context
+
+Over many years I have discovered that the best way to be reminded of an "as soon as I can" action is by the particular context required for that action—that is, either the tool or the location or the situation needed to complete it. For instance, if the action requires a computer, it should go on an At Computer list. If your action demands that you be out and moving around in the world (such as stopping by the bank or going to the hardware store), the Errands list would be the appropriate place to track it. If the next step is to talk about something face-to-face with your partner, Emily, putting it into an "Emily" folder or list makes the most sense.
+
+How discrete these categories will need to be will depend on (1) how many actions you actually have to track; and (2) how often you change the contexts within which to do them.
+
+If you are that rare person who has only twenty-five next actions, a single Next Actions list might suffice. It could include items as diverse as "Buy nails," "Talk to boss about staff changes," and "Draft ideas about committee meeting." If, however, you have fifty or a hundred next actions pending, keeping all of those on one big list would make it too difficult to see what you need to see; each time you got any window of time to do something, you'd have to do unproductive re-sorting. If you happened to be on a short break at a conference, during which you might be able to make some calls, you'd have to identify the calls among a big batch of unrelated items. When you went out to do odds and ends, you'd probably want to pick out your errands and make another list.
+
+Another productivity factor that this kind of organization supports is leveraging your energy when you're in a certain mode. When you're in "phone mode," it helps to make a lot of phone calls—just crank down your Calls list. When your computer is up and running and you're cruising along digitally, it's useful to get as much done online as you can without having to shift into another kind of activity. It takes more energy than most people realize to unhook out of one set of behaviors and get into another kind of rhythm and tool set. And obviously, when a key person is sitting in front of you in your office, you'd be wise to have all the things you need to talk about with him or her immediately at hand.
