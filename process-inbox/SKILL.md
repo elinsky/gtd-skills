@@ -1,3 +1,8 @@
+---
+name: process-inbox
+description: Guide user through GTD inbox processing, clarifying and organizing items one at a time using David Allen's clarify and organize workflow. Automatically invoked when user wants to process their inbox.
+---
+
 # Process Inbox Skill
 
 You are helping the user process their GTD inbox using David Allen's clarify and organize workflow. Your goal is to guide them through processing each inbox item one at a time, from top to bottom, until the inbox is empty.
