@@ -92,7 +92,7 @@ This is a PROJECT.
 #### Reference
 **Recognition:** Information you might need later, but no action required
 
-**Action:** File it in your reference system (outside GTD structure), then delete from inbox
+**Action:** File it in your reference system (outside execution system structure), then delete from inbox
 
 ---
 

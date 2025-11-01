@@ -1,19 +1,19 @@
 # Process Inbox Skill
 
-Guides users through the GTD inbox processing workflow - clarifying and organizing captured items one at a time until inbox is empty.
+Guides users through the inbox processing workflow - clarifying and organizing captured items one at a time until inbox is empty.
 
 ## Purpose
 
-Traditional inbox processing is overwhelming. You stare at a list of random items and don't know where to start. The GTD Processing Guide tells you to "start at the top and process one at a time," but that's easier said than done when items are vague, complex, or touch multiple areas of your life.
+Traditional inbox processing is overwhelming. You stare at a list of random items and don't know where to start. The Processing Guide tells you to "start at the top and process one at a time," but that's easier said than done when items are vague, complex, or touch multiple areas of your life.
 
-This skill embeds GTD coaching expertise into Claude Code. It guides you through a structured conversation for each inbox item:
+This skill embeds productivity coaching expertise into Claude Code. It guides you through a structured conversation for each inbox item:
 
 - **Clarifying**: What is this? Is it actionable? What's the next physical action?
 - **Routing**: Which horizon does it belong to? (00k actions → 50k purpose)
 - **Organizing**: Using MCP tools to put it in the right place in your system
 - **Removing**: Deleting it from inbox (never going back)
 
-No more decision paralysis. No more items sitting in inbox for weeks. Just clear, decisive processing with an AI partner who knows GTD.
+No more decision paralysis. No more items sitting in inbox for weeks. Just clear, decisive processing with an AI partner who knows the methodology.
 
 ## How It Works
 
@@ -32,7 +32,7 @@ No more decision paralysis. No more items sitting in inbox for weeks. Just clear
 
 ## Key Features
 
-### Follows GTD Rules Strictly
+### Follows Workflow Rules Strictly
 
 - **Top item first** - No cherry-picking
 - **One at a time** - Full focus on current item
@@ -90,23 +90,23 @@ Claude: [helps clarify what it is and where it should go]
 ## Requirements
 
 **MCP Server:**
-- `gtd-mcp` server must be running and configured
+- `execution-system-mcp` server must be running and configured
 - Requires tools: `add_action`, `create_project`, `list_areas`, `search_projects`, etc.
 
 **File Structure:**
 - Inbox at: `docs/execution_system/00-inbox.md`
-- Follows standard GTD horizons structure (see `reference/implementation/file-structure.md`)
+- Follows standard horizons structure (see `reference/implementation/file-structure.md`)
 
 **Configuration:**
-- Areas of focus defined in `~/.config/gtd-mcp/config.json`
+- Areas of focus defined in `~/.config/execution-system-mcp/config.json`
 - Must match areas in `docs/execution_system/20k-areas/active/areas-of-focus.md`
 
 ## Reference Materials
 
 The skill includes comprehensive documentation:
 
-**GTD Principles** (`reference/gtd-principles/`):
-- Original GTD concepts
+**Workflow Principles** (`reference/gtd-principles/`):
+- Original workflow concepts
 - Processing guidelines, two-minute rule, etc.
 - 17 files covering clarify and organize phases
 
@@ -154,7 +154,7 @@ Let's look at the next item: "Create skill to help process inbox"
 
 1. **Schedule inbox processing** - Daily or every 2-3 days
 2. **Block time** - 15-30 minutes for small batches
-3. **Trust the process** - Don't skip items, follow GTD rules
+3. **Trust the process** - Don't skip items, follow workflow rules
 4. **Start with small batches** - Process 5-10 items at a time
 5. **Use capture freely** - Get stuff into inbox quickly, process later
 
@@ -183,8 +183,8 @@ Let's look at the next item: "Create skill to help process inbox"
 - Reference skill explicitly: "Use process-inbox skill"
 
 **MCP tools failing?**
-- Check gtd-mcp server is running
-- Verify config at `~/.config/gtd-mcp/config.json`
+- Check execution-system-mcp server is running
+- Verify config at `~/.config/execution-system-mcp/config.json`
 
 **Items going to wrong place?**
 - Review `workflows/multi-horizon-routing.md`
@@ -192,7 +192,7 @@ Let's look at the next item: "Create skill to help process inbox"
 
 ## Philosophy
 
-This skill embodies a key GTD insight:
+This skill embodies a key workflow insight:
 
 > "When I coach people through this process, it invariably becomes a dance back and forth between the simple decision-making stage of processing the open loops and the trickier task of figuring out the best way to enter these decisions in their particular organization systems."
 

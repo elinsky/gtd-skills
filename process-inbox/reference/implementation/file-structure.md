@@ -5,10 +5,10 @@ This document maps the conceptual horizons of focus to the actual file system st
 ## Root Directory
 
 ```
-$GTD_REPO/docs/execution_system/
+$EXECUTION_SYSTEM_REPO/docs/execution_system/
 ```
 
-All GTD files live under this root. The `$GTD_REPO` variable should point to your personal GTD repository (e.g., `/Users/you/Dropbox/repos/brian/`).
+All files live under this root. The `$EXECUTION_SYSTEM_REPO` variable should point to your personal execution system repository (e.g., `/Users/you/Dropbox/repos/brian/`).
 
 ## Full Structure
 
@@ -155,7 +155,7 @@ last_reviewed: 2025-11-01
 | Goal idea | `30k-goals/incubator/{goal-name}.md` | Write tool (new) or Edit (existing) |
 | Vision idea | `40k-vision/active/{area}.md` | Edit tool |
 | Purpose/Principle | `50k-purpose-and-principles/active/purpose.md` or `principles.md` | Edit tool |
-| Reference | File system or notes app (outside GTD structure) | Manual filing |
+| Reference | File system or notes app (outside execution system structure) | Manual filing |
 | Trash | Delete from inbox | Delete line |
 
 ## Key Relationships
@@ -189,9 +189,9 @@ last_reviewed: 2025-11-01
 
 The MCP server requires a config file at:
 ```
-~/.config/gtd-mcp/config.json
+~/.config/execution-system-mcp/config.json
 ```
 
 This defines:
-- `gtd_repo_path` - Absolute path to your GTD repo
+- `gtd_repo_path` - Absolute path to your execution system repo
 - `areas` - List of valid area names (must match `20k-areas/active/areas-of-focus.md`)

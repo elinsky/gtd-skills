@@ -1,6 +1,6 @@
 # Horizons of Focus
 
-GTD uses a six-level model for organizing commitments, from ground-level actions up to life purpose. This implementation uses these horizons to organize all captured items.
+This system uses a six-level model for organizing commitments, from ground-level actions up to life purpose. This implementation uses these horizons to organize all captured items.
 
 ## The Six Levels
 

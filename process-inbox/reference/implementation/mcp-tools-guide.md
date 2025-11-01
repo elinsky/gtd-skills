@@ -1,6 +1,6 @@
 # MCP Tools Guide
 
-This document lists all available MCP tools from the `gtd-mcp` server and when to use them during inbox processing.
+This document lists all available MCP tools from the `execution-system-mcp` server and when to use them during inbox processing.
 
 ## Tool Categories
 
@@ -137,7 +137,7 @@ list_actions(
 ### 📂 Project Management (10k)
 
 #### `create_project`
-**Purpose:** Create a new GTD project with proper structure
+**Purpose:** Create a new project with proper structure
 
 **Parameters:**
 - `title` (required) - Project title
@@ -149,7 +149,7 @@ list_actions(
 **Example:**
 ```
 create_project(
-  title="Automate GTD System with LLM Agent",
+  title="Automate Execution System with LLM Agent",
   area="Mission",
   type="standard",
   folder="active"
@@ -321,7 +321,7 @@ Inbox item clarified
     │   │
     │   └─ NO: What is it?
     │       ├─ Trash → Delete line from inbox
-    │       ├─ Reference → File it (outside GTD)
+    │       ├─ Reference → File it (outside execution system)
     │       ├─ Someday/Maybe → Use Edit tool on someday lists
     │       ├─ Higher horizon (20k-50k) → Use Edit/Read tools on appropriate files
     │       └─ Incubate → add_to_incubating() or someday list

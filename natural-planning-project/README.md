@@ -1,6 +1,6 @@
 # Natural Planning Project Creation Skill
 
-A conversational AI skill that guides users through the Natural Planning Model when creating GTD projects.
+A conversational AI skill that guides users through the Natural Planning Model when creating projects.
 
 ## What It Does
 
@@ -9,7 +9,7 @@ This skill ensures every project you create is well-formed with:
 - Clear purpose and vision
 - Appropriate planning depth (quick/standard/deep)
 - At least one concrete next action
-- Proper GTD structure and metadata
+- Proper project structure and metadata
 
 ## How It Works
 
@@ -43,20 +43,20 @@ The skill guides you through a structured conversation:
 **Use for:** Complex, important, or multi-faceted projects
 **Captures:** Full 5-phase NPM (Purpose, Principles, Vision, Brainstorm, Organize, Actions)
 **Time:** 5-10 minutes
-**Example:** "Build a GTD agent product"
+**Example:** "Build a execution system agent product"
 
 ## Prerequisites
 
 **Required:**
 
-- [gtd-mcp](https://github.com/elinsky/gtd-mcp) server running
-- GTD project structure in your brian/ repo:
+- [execution-system-mcp](https://github.com/elinsky/execution-system-mcp) server running
+- project structure in your brian/ repo:
   - `docs/execution_system/10k-projects/[area]/[folder]/`
   - `docs/execution_system/00k-next-actions/[context].md`
 
 **Configuration:**
 
-- Areas of focus configured in gtd-mcp config
+- Areas of focus configured in execution-system-mcp config
 - Context files created (@macbook.md, @waiting.md, etc.)
 
 ## Usage
@@ -87,7 +87,7 @@ I want to create a project about [your project idea].
 **Quick Mode:**
 ```
 User: Create a project for me
-Claude: I'll help you create a GTD project. What's it about?
+Claude: I'll help you create a project. What's it about?
 User: I need to renew my driver's license
 Claude: How much planning does this need? Quick/Standard/Deep?
 User: Quick
@@ -111,13 +111,13 @@ User: No
 
 **Deep Mode:**
 ```
-User: Create a project - I want to build a GTD agent
+User: Create a project - I want to build a execution system agent
 Claude: That sounds complex. How much planning? Quick/Standard/Deep?
 User: Deep - this is important
 [Claude gathers metadata]
 [Claude creates project file]
 Claude: Why are you doing this project? What larger goal does it serve?
-User: I want to help other people implement GTD effectively...
+User: I want to help other people implement the execution system effectively...
 [Continues through all 5 NPM phases]
 [Creates multiple next actions]
 [Shows summary]
@@ -134,7 +134,7 @@ Every project gets at least one next action. No orphan projects.
 **Adapts to Complexity**
 Simple projects stay simple. Complex projects get the planning they deserve.
 
-**Teaches GTD**
+**Teaches workflow methodology**
 By using the skill, you internalize the Natural Planning Model over time.
 
 **Consistent Structure**
