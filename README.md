@@ -2,6 +2,20 @@
 
 Reusable AI agent skills for Getting Things Done (GTD) workflows. These skills guide Claude Code and AI agents through GTD best practices, particularly the Natural Planning Model.
 
+## Why This Exists
+
+Traditional project planning tools present you with empty form fields: "Project Name", "Description", "Due Date". But effective planning requires thinking through *why* you're doing something before deciding *what* to do. This backwards approach leads to shallow projects that lack clarity.
+
+David Allen's Natural Planning Model solves this - it's how your brain naturally plans when it works well. You think through purpose first, then envision success, then brainstorm, then organize, then identify next actions. In that order.
+
+These skills embed that expertise into Claude Code, so you get guided through high-quality planning as a conversation:
+
+- **Creating a project?** Claude asks about purpose and vision before letting you add tasks
+- **Stuck on a project?** Claude helps you reconnect with why it matters
+- **Moving too fast?** Claude ensures you've thought it through
+
+No more blank forms. No more shallow projects. Just natural planning with an AI partner who knows GTD.
+
 ## Overview
 
 Skills are conversational prompts that instruct AI assistants on how to guide users through complex workflows. They can be used standalone in Claude Code or orchestrated by autonomous agents.
